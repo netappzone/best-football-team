@@ -12,8 +12,8 @@ https://flutter.dev/
 
 ## To run the app:
 
-- create a .env environment with the following parameters: BASE_URL & APP_API_KEY
-- I used 'https://api.football-data.org' as the BASE_URL
+- create a .env environment with the following parameters: `BASE_URL` & `APP_API_KEY`
+- I used `'https://api.football-data.org'` as the BASE_URL
 - update the dependencies by running `flutter pub get`
 - use `flutter run` to run the project on your emulator
 - use `flutter build apk` to build the app
@@ -22,3 +22,4 @@ https://flutter.dev/
 
 <img src="screenshots/Screenshot_1661340825.png" width="300" height="555"> <img src="screenshots/Screenshot_1661340827.png" width="300" height="555">
 <img src="screenshots/Screenshot_1661341037.png" width="300" height="555"> <img src="screenshots/Screenshot_1661458460.png" width="300" height="555">
+<img src="screenshots/Screenshot_1661444733.png" width="300" height="555">
